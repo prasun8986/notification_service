@@ -2,6 +2,9 @@
 
 A simple notification microservice built with Node.js, Express, MongoDB, and RabbitMQ.
 
+## Deployed @Render
+link:- https://notification-service-9ny4.onrender.com
+
 ## Features
 
 - RESTful API to create and fetch users
